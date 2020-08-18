@@ -2,5 +2,5 @@
 layout: Slide 
 Title: "Welcome to our second slide!" 
 ---
-Your text
+Are u winning son? - No dad. Im learning. 
 Use your left arrow to go back!
